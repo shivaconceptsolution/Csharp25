@@ -1,0 +1,9 @@
+﻿<Window x:Class="WpfControlExample.ConsumeSI"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:si="clr-namespace:WpfControlExample"
+        Title="ConsumeSI" Height="600" Width="600">
+    <StackPanel>
+        <si:SIControl Margin="62,10,32,248" ></si:SIControl>
+    </StackPanel>
+</Window>
